@@ -106,6 +106,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Metaverse Chat App (React JS)",
+        "category": "",
+        "image": "metaverse.png",
+        "url": "https://metaverse-challenge-blue.vercel.app/"
+      },
+      {
         "title": "Airbnb Clone (React JS)",
         "category": "",
         "image": "airbnb.png",
