@@ -2,7 +2,7 @@
   "main": {
     "name": "Kan Kunnawat",
     "occupation": "Product Owner of Aigen",
-    "description": "I'm trying to learn react",
+    "description": "I’m switching my career to be a software engineer ",
     "image": "profilepic.jpg",
     "bio": "Hello friends! I'm Kan",
     "contactmessage": "Get in touch with me ",
@@ -14,7 +14,7 @@
       "state": "Devosphere",
       "zip": "W3B D3V"
     },
-    "website": "https://www.papareact.com/course",
+    "website": "https://kankunnawat.netlify.app/",
     "resumedownload": "https://drive.google.com/file/d/1VrpHdzIVtkPiI44f76rLEXeakXSWD8vZ/view?usp=sharing",
     "social": [
       {
