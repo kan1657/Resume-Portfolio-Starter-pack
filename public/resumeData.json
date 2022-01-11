@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Kan Kunnawat",
-    "occupation": "Product Owner of Aigen",
+    "occupation": "Product Owner at Aigen",
     "description": "I’m switching my career to be a software engineer ",
     "image": "profilepic.jpg",
     "bio": "Hello friends! I'm Kan",
@@ -106,7 +106,7 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Metaverse Chat App (React JS)",
+        "title": "Metaverse Chat App (Web 3.0 - Next.js, Moralis.io, TailwindCSS 3.0)",
         "category": "",
         "image": "metaverse.png",
         "url": "https://metaverse-challenge-blue.vercel.app/"
@@ -116,6 +116,12 @@
         "category": "",
         "image": "airbnb.png",
         "url": "https://airbnb-clone-lilac-ten.vercel.app/"
+      },
+      {
+        "title": "Tesla Clone (React JS)",
+        "category": "",
+        "image": "tesla.png",
+        "url": "https://tesla-clone-rust-five.vercel.app/"
       },
       {
         "title": "LinkedIn Clone (React JS)",
