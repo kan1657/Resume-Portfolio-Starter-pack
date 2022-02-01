@@ -106,11 +106,12 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Github Finder App",
+        "title": "Github Finder App (React JS)",
         "category": "",
         "image": "github-finder.png",
         "url": "https://github-finder-navy.vercel.app/"
       },
+      
       {
         "title": "Metaverse Chat App (Web 3.0 - Next.js, Moralis.io, TailwindCSS 3.0)",
         "category": "",
