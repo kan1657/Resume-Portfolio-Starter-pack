@@ -106,6 +106,20 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Support Desk (MERN Stack)",
+        "category": "",
+        "image": "support-desk.png",
+        "url": "https://kansupportdesk.herokuapp.com/"
+      },
+      {
+        "title": "House Marketplace (React JS + Firebase)",
+        "category": "",
+        "image": "house-marketplace.png",
+        "url": "https://house-marketplace-indol.vercel.app/"
+      },
+   
+
+      {
         "title": "Github Finder App (React JS)",
         "category": "",
         "image": "github-finder.png",
