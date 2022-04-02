@@ -106,7 +106,7 @@
   "portfolio": {
     "projects": [
       {
-        "title": "NFT Drop Challenge (Sanity CMS, NFT Drop thirdweb, Next.js, Tailwind)",
+        "title": "NFT Drop Challenge",
         "category": "",
         "image": "nft-drop.png",
         "url": "https://nft-drop-challenge-two.vercel.app//"
@@ -132,7 +132,7 @@
       },
 
       {
-        "title": "Metaverse Chat App (Web 3.0 - Next.js, Moralis.io, TailwindCSS 3.0)",
+        "title": "Metaverse Chat App ",
         "category": "",
         "image": "metaverse.png",
         "url": "https://metaverse-challenge-blue.vercel.app/"
